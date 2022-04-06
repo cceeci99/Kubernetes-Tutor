@@ -18,9 +18,9 @@ Also it is running with docker desktop (instead of minikube)
 
 - Check all deployments/services/pods with
 
-kubectl get pods | deployment | service | secret | configmap
-kubectl describe pods | service 
-kubectl logs <pod_name>
+kubectl get pods | deployment | service | secret | configmap\n
+kubectl describe pods | service \n
+kubectl logs <pod_name>\n
 
 - Delete components
 
